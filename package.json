@@ -1,0 +1,18 @@
+{
+  "name": "be-database-mongosh-artem-brui",
+  "version": "1.0.0",
+  "description": "The MongoDB `mongosh` shell is very similar to the Node REPL. This is a series of mini exercises to help you practice using the MongoDB shell.",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mongoose": "^8.7.2",
+    "mongos": "^0.0.0"
+  }
+}
